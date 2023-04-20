@@ -1,7 +1,6 @@
 
 import { Component } from 'react';
-import done from './done.png';
-
+import done from './done.jpg';
 export class TodoList extends Component {
     state = {
         userInput: '',
